@@ -108,7 +108,7 @@ var member = [
     "name": "廖慧婷"
   },
   {
-    "phone": "No.28"
+    "phone": "No.28",
     "name": "夏晔"
   },
   {
