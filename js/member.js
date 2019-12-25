@@ -117,30 +117,38 @@ var member = [
   },
   {
     "phone": "No.30",
-    "name": "刘佳"
-  },
-  {
-    "phone": "No.31",
     "name": "周妍"
   },
   {
-    "phone": "No.32",
+    "phone": "No.31",
     "name": "熊莎"
   },
   {
-    "phone": "No.33",
+    "phone": "No.32",
     "name": "熊瑶"
   },
   {
-    "phone": "No.34",
+    "phone": "No.33",
     "name": "旷鸣婷"
   },
   {
-    "phone": "No.35",
+    "phone": "No.34",
     "name": "曾金和"
   },
   {
-    "phone": "No.36",
+    "phone": "No.35",
     "name": "罗瑶"
+  },
+  {
+    "phone": "No.36",
+    "name": "吴争争"
+  },
+  {
+    "phone": "No.37",
+    "name": "唐敏"
+  },
+  {
+    "phone": "No.38",
+    "name": "徐海靖"
   }
 ]
