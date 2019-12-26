@@ -146,9 +146,5 @@ var member = [
   {
     "phone": "No.37",
     "name": "唐敏"
-  },
-  {
-    "phone": "No.38",
-    "name": "徐海靖"
   }
 ]
